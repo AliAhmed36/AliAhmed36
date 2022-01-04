@@ -6,8 +6,9 @@
 ### Languages
 - Python, Java, C, F#, Scala, x86-64 Assembly, SH-3/4 Assembly  
 ### Environments  
-- Linux, Git, Gitlab
-- 📫 How to reach me:   
+- Linux, Git, Gitlab  
+
+## 📫 How to reach me:   
 - [Linkedin](https://www.linkedin.com/in/ali-ahmed-sheikh-77a68a96/)  
 
 <!---
