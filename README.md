@@ -1,6 +1,6 @@
 - 👋 Hi there! My name's Ali and I am currently a student at KAIST (Korea Advanced Institute of Science and Technology).  
 - I'm pursuing a double major in **Computer Science** and **Business and Technology Management**
-- 👀 As of now, I am currently learning and working on Software Development, Binary Analysis, Marketing Research, UX/UI Design, and Machine Learning for 3D Data
+- 👀 As of now, I am currently learning and working on Software Development, Binary Analysis, Marketing Research, Functional Programming, and Machine Learning for 3D Data
 - 🌱 Trying to build experience in developing secure software, analysing vulnerabilities in ML solutions, coming up with helpful designs for visualizing objects...
 - 💞️ According to my skills, I am looking to collaborate on projects requiring any of the following skills, languages, or environments:  
 ### Languages
